@@ -2,7 +2,7 @@
 
 Estudante de Engenharia de Software com interesse em desenvolvimento back-end.
 
-Atualmente, estudo Java, Python e bancos de dados relacionais e NoSQL.
+
 
 ### Tecnologias
 
