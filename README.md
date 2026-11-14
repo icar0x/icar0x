@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ícaro Ryan
 
-<!--
-**icar0x/icar0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software com interesse em desenvolvimento back-end.
 
-Here are some ideas to get you started:
+Atualmente, estudo Java, Python e bancos de dados relacionais e NoSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias
+
+![Java](https://img.shields.io/badge/Java-27272A?style=flat-square)
+![Python](https://img.shields.io/badge/Python-27272A?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-27272A?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-27272A?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-27272A?style=flat-square&logo=mongodb&logoColor=white)
