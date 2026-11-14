@@ -1,4 +1,4 @@
-name: Atualizar animação de contribuições
+name: Atualizar Pac-Man de contribuições
 
 on:
   schedule:
@@ -13,31 +13,28 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-snake
+  group: profile-pacman
   cancel-in-progress: false
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Gerar animação
-        uses: Platane/snk/svg-only@v3
+      - name: Gerar Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: pacman
       - name: Publicar animação
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist/github-snake.svg dist/github-snake-dark.svg
+          git add dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
           if ! git diff --cached --quiet; then
             git commit -m "Atualiza animação das contribuições"
             git pull --rebase origin main
