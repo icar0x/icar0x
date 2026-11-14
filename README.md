@@ -25,7 +25,7 @@ Estudante de Engenharia de Software com interesse em desenvolvimento back-end.
 | [E-commerce](https://github.com/icar0x/ecommerce-trabalho) | **Em desenvolvimento.** Projeto de catálogo com carrinho e envio de pedidos pelo WhatsApp. | Stack planejada: Python, Supabase, MongoDB, Redis |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/pacman-contribution-graph.svg">
-  <img alt="Pac-Man animado percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/breakout-contribution-graph.svg">
+  <img alt="Breakout animado com minhas contribuições no GitHub" src="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/breakout-contribution-graph.svg">
 </picture>
