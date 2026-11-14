@@ -11,3 +11,11 @@ Estudante de Engenharia de Software com interesse em desenvolvimento back-end.
 ![SQL](https://img.shields.io/badge/SQL-27272A?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-27272A?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-27272A?style=flat-square&logo=mongodb&logoColor=white)
+
+### Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/github-snake.svg">
+  <img alt="Cobrinha animada percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/github-snake.svg">
+</picture>
