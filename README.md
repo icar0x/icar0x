@@ -6,9 +6,9 @@ Estudante de Engenharia de Software com interesse em desenvolvimento back-end.
 
 ### Tecnologias
 
-![Java](https://img.shields.io/badge/Java-27272A?style=flat-square)
+![Java](https://img.shields.io/badge/Java-27272A?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-27272A?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-27272A?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-27272A?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-27272A?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-27272A?style=flat-square&logo=mongodb&logoColor=white)
 
