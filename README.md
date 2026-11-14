@@ -15,7 +15,7 @@ Estudante de Engenharia de Software com interesse em desenvolvimento back-end.
 ### Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/github-snake.svg">
-  <img alt="Cobrinha animada percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/pacman-contribution-graph.svg">
+  <img alt="Pac-Man animado percorrendo minhas contribuições no GitHub" src="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/pacman-contribution-graph.svg">
 </picture>
