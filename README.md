@@ -22,7 +22,7 @@ Estudante de Engenharia de Software com interesse em desenvolvimento back-end.
 | [Poupança com Metas](https://github.com/icar0x/poupanca-metas) | Aplicação via terminal com metas financeiras, depósitos e integração com funções e procedures do banco. | Java, Spring Boot, JPA, PostgreSQL |
 | [Catálogo com Cache](https://github.com/icar0x/catalogo-cache-supabase-redis) | CRUD de produtos com cache-aside, expiração, invalidação e métricas de cache. | Python, Streamlit, Supabase, Redis |
 | [7 Barbershop](https://github.com/icar0x/7-barbershop-bd) | Sistema desktop de gestão com agendamentos, relatórios e dashboard integrado ao banco. | Java, Swing, JDBC, PostgreSQL |
-| [E-commerce](https://github.com/icar0x/ecommerce-trabalho) | **Em desenvolvimento.** Projeto de catálogo com carrinho e envio de pedidos pelo WhatsApp. | Stack planejada: Python, Supabase, MongoDB, Redis |
+| [Impulso — E-commerce](https://github.com/icar0x/ecommerce-trabalho) | Loja virtual responsiva com catálogo, carrinho, envio de pedidos pelo WhatsApp, painel administrativo e atendimento com IA. | Python, FastAPI, HTML, CSS, JavaScript, MongoDB, Redis, Supabase Auth, Google Gemini |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icar0x/icar0x/main/dist/breakout-contribution-graph-dark.svg">
